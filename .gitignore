@@ -81,3 +81,7 @@ DerivedDataCache/*
 **/Content/SteamAudio
 
 !Plugins/CustomMapTools/Binaries/Win64/*.dll
+
+# Rush Specific Changes
+
+**/Rush.odt
